@@ -1,0 +1,10 @@
+{
+  "name": "botsync",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/trained_policy.json"
+  ]
+}
